@@ -1,5 +1,5 @@
 # AppDevPost
-App realizado durante curso de React Native. O utilizador pode publicar, alterar os seus dados e ver os posts publicados por outros utilizadores.
+App developed during a React Native course. The user can publish, change their data and view posts published by other users.
 
 ![59al38](https://user-images.githubusercontent.com/63668973/118027077-6ef5dd00-b359-11eb-9049-fdf5e346f8a5.gif)
 ![59al8p](https://user-images.githubusercontent.com/63668973/118027082-70270a00-b359-11eb-96a8-1077ae6036b1.gif)
